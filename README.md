@@ -1,12 +1,13 @@
-E-Commerce Order and Returns 
+**E-Commerce Order and Returns**: 
 
 
-Problem Statement: 
+**Problem Statement**: 
 
 Build a Java console app to manage products, customers, orders, payments, 
 shipments, and returns.
 
-Features:
+
+**Features**:
 
 Product Management: Add, update, delete, and view products.
 
@@ -20,7 +21,8 @@ Shipment Tracking: Assign shipments, update delivery status.
 
 Returns & Refunds: Initiate returns, validate return conditions, and process refunds.
 
-Technologies Used:
+
+**Technologies Used**:
 
 Java 17+
 
