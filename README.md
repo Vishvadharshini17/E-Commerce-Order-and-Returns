@@ -64,6 +64,7 @@ Java Console I/O (Scanner)
 
 ## Project Structure:
 
+```plaintext
 ECommerceApp/
 │
 ├── model/
@@ -91,6 +92,7 @@ ECommerceApp/
 │   ├── IdGenerator.java
 │
 └── Main.java
+```
 
 ## Output:
 
