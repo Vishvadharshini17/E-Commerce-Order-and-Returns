@@ -1,37 +1,98 @@
-**E-Commerce Order and Returns**: 
+## E-Commerce Order and Returns Management System
 
-**Problem Statement**: 
+## Project Overview:
 
-Build a Java console app to manage products, customers, orders, payments, 
-shipments, and returns.
+The E-Commerce Order and Returns Management System is a Java console-based application that simulates core functionalities of an online shopping platform.
 
+This application allows management of:
 
-**Features**:
+Products
 
-Product Management: Add, update, delete, and view products.
+Customers
 
-Customer Management: Register, update, and view customer profiles.
+Orders
 
-Order Processing: Create orders, view order history, and manage order status.
+Payments
 
-Payment Handling: Simulate payment processing and track payment status.
+Shipments
 
-Shipment Tracking: Assign shipments, update delivery status.
+Returns & Refunds
 
-Returns & Refunds: Initiate returns, validate return conditions, and process refunds.
+## Features:
 
+Product Management
 
-**Technologies Used**:
+Add new products
+
+Update product details
+
+Delete products
+
+View available products
+
+View order history
+
+Update order status (Placed, Confirmed, Shipped, Delivered, Cancelled)
+
+## Payment Handling
+
+Simulate payment processing
+
+Track payment status (Pending, Completed, Failed)
+
+Link payments with orders
+
+## Technologies Used
 
 Java 17+
 
 Object-Oriented Programming (OOP)
 
-Collections Framework
+Encapsulation
 
-Exception Handling
+Abstraction
 
-**Output**:
+Inheritance
+
+Polymorphism
+
+Java Collections Framework
+
+ArrayList
+
+Java Console I/O (Scanner)
+
+## Project Structure:
+
+ECommerceApp/
+│
+├── model/
+│   ├── Product.java
+│   ├── Customer.java
+│   ├── Order.java
+│   ├── Payment.java
+│   ├── Shipment.java
+│   ├── ReturnRequest.java
+│
+├── service/
+│   ├── ProductService.java
+│   ├── CustomerService.java
+│   ├── OrderService.java
+│   ├── PaymentService.java
+│   ├── ShipmentService.java
+│   ├── ReturnService.java
+│
+├── exception/
+│   ├── ProductNotFoundException.java
+│   ├── OrderNotFoundException.java
+│   ├── InvalidReturnException.java
+│
+├── util/
+│   ├── IdGenerator.java
+│
+└── Main.java
+
+## Output:
 
 <img width="913" height="703" alt="image" src="https://github.com/user-attachments/assets/25fed053-3f24-40d6-90f0-587c4b1f402e" />
 <img width="703" height="706" alt="image" src="https://github.com/user-attachments/assets/60be7f56-bbc1-4d35-808c-b2a2827596d8" />
