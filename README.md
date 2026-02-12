@@ -1,6 +1,5 @@
 **E-Commerce Order and Returns**: 
 
-
 **Problem Statement**: 
 
 Build a Java console app to manage products, customers, orders, payments, 
@@ -31,6 +30,8 @@ Object-Oriented Programming (OOP)
 Collections Framework
 
 Exception Handling
+
+**Output**:
 
 <img width="913" height="703" alt="image" src="https://github.com/user-attachments/assets/25fed053-3f24-40d6-90f0-587c4b1f402e" />
 <img width="703" height="706" alt="image" src="https://github.com/user-attachments/assets/60be7f56-bbc1-4d35-808c-b2a2827596d8" />
